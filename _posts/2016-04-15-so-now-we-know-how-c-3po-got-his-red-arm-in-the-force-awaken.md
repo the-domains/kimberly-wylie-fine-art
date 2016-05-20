@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T18:05:34.111Z'
+datePublished: '2016-05-20T18:05:34.145Z'
 sourcePath: _posts/2016-04-15-so-now-we-know-how-c-3po-got-his-red-arm-in-the-force-awaken.md
 inFeed: true
 isBasedOnUrl: 'http://io9.gizmodo.com/so-now-we-know-how-c-3po-got-his-red-arm-in-the-force-a-1770741572'
@@ -17,7 +17,7 @@ keywords:
   - gizmodo
 related: []
 author: []
-dateModified: '2016-05-20T18:05:33.796Z'
+dateModified: '2016-05-20T18:05:33.744Z'
 title: So Now We Know How C-3PO Got His Red Arm In The Force Awakens
 app_links: []
 publisher:
